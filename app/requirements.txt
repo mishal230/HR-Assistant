@@ -1,0 +1,6 @@
+gradio
+sentence-transformers
+python-docx
+PyPDF2
+torch
+transformers
